@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-mot.web.app/](https://my-portfolio-mot.web.app/)
 
-- 📝 I regularly write articles on [https://whitedeathgaming.pages.dev/](https://whitedeathgaming.pages.dev/)
+- 📝 I regularly write articles on [https://whitedeathgaming.tech/](https://whitedeathgaming.tech/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, C, C++, Python, ...**
 
