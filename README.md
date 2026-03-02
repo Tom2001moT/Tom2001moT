@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas Francis</h1>
-<h3 align="center">A passionate frontend developer & A gamer from India</h3>
+<h3 align="center">A passionate full stack developer & A gamer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tom2001mot&label=Profile%20views&color=0e75b6&style=flat" alt="tom2001mot" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Flutter, CyberSecurity, ...**
 
-- 👯 I’m looking to collaborate on **Frontend webdevelopment**
+- 👯 I’m looking to collaborate on **Full Stack webdevelopment**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-mot.web.app/](https://my-portfolio-mot.web.app/)
 
